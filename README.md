@@ -14,6 +14,7 @@ Reshaping Arrays: Changing the shape of arrays without changing the data.<br>
 Broadcasting: Performing operations on arrays of different shapes.<br>
 Mathematical Functions: Using built-in mathematical functions on arrays.<br>
 
+![282013b7-68d4-4307-9828-2607c35d56d4_3562x3984](https://github.com/user-attachments/assets/96821445-5eb9-4626-8bc1-2fe4d9b27b7d)
 
 
 ## Pandas - Data Analysis and Manipulation Library
@@ -28,4 +29,5 @@ Data Cleaning: Handle missing data, replace values, and apply transformations.<b
 Time Series: Work with time series data and perform operations like resampling, shifting, and time-based indexing.<br>
 I/O operations: Read and write data to/from CSV, Excel, SQL, JSON, and other file formats.<br>
 
-![Uploading inbox_3298899_f2421efc76679aa59f61087f7e5b5b6f_pandas_cheatsheet.png…]()
+![pan](https://github.com/user-attachments/assets/a0f59aa3-5dd6-4757-bee6-60627dc1ef8f)
+
